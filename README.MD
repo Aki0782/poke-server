@@ -25,6 +25,7 @@ Ensure you have the following installed:
 1. RUN CODE: 
 ```bash
   yarn install && yarn start
+```
 
 ```
 poke-server/
@@ -43,6 +44,7 @@ poke-server/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+```
 
 ## Key Files and Directories
 
