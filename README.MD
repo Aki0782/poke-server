@@ -23,10 +23,10 @@ Ensure you have the following installed:
 ### Installation
 
 1. RUN CODE: 
-   ```bash
+```bash
   yarn install && yarn start
-  ```
 
+```
 poke-server/
 │
 ├── src/
